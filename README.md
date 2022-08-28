@@ -1,0 +1,1 @@
+This is a project to create a basic recipe website using HTML. It will feature a home page with links to various recipes.  When completed, this project will be used to demonstrate skills with HTML and using GitHub.
